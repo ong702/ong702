@@ -1,3 +1,4 @@
+First file of brach 001 commit
 JAMBO 👋 Hi, I’m Ong702
 👀 I’m interested in Data science.
 🌱 I’m currently learning machine learning.
@@ -6,6 +7,7 @@ I’m looking to collaborate on everything regarding programming , improving and
 email_ong702@gmail.com
 telegram_@makosewe
 X_17tuffgong
+first commit
 
 <!---
 ong702/ong702 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
